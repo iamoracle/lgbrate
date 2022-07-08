@@ -16,8 +16,8 @@ LGBRATE is a fully decentralized LGBTQIA+ community and forum that runs on the C
 ## Vision and Mission
 
 Our mission
-1. To provide a fully decentralized LGBTQIA+ platform that will reduces identity-based discrimintion, hate and violence.
-2. To support LGBTQIA+ members worldwide especially, in countries where they are being persecuted.
+1. To provide a fully decentralized LGBTQIA+ platform that reduces discrimination, hatred, and violence based on identity.
+2. To assist LGBTQIA+ members worldwide, particularly in countries where they are persecuted.
 
 Our Vision
 1. TO become the largest decentralized LGBTQIA+ platform on CELO blockchain by August 2023.
