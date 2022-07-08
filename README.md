@@ -1,5 +1,6 @@
 # LGBRATE
 
+[Figma Wireframe Demo](https://www.figma.com/proto/zpSPXzKbaYbVkmA9R9OPa6/LGBRATE?page-id=0%3A1&node-id=33%3A2062&viewport=2686%2C-1249%2C0.7&scaling=scale-down&starting-point-node-id=33%3A2062)
 
 LGBRATE is a fully decentralized LGBTQIA+ community and forum that runs on the CELO blockchain. We provide a platform to organize events, meet other members and donate funds to projects. LGBRATE will liberate LGBTQIA+ communities worldwide especially, in countries where they are persecuted. Members can connect & express their identity without fear and shame. It will also sensitize the public on gender-diversity.
 
@@ -25,7 +26,7 @@ Our Vision
 
 # DEMO
 
-[Figma](https://www.figma.com/proto/zpSPXzKbaYbVkmA9R9OPa6/LGBRATE?page-id=0%3A1&node-id=33%3A2062&viewport=2686%2C-1249%2C0.7&scaling=scale-down&starting-point-node-id=33%3A2062)
+[Figma Wireframe](https://www.figma.com/proto/zpSPXzKbaYbVkmA9R9OPa6/LGBRATE?page-id=0%3A1&node-id=33%3A2062&viewport=2686%2C-1249%2C0.7&scaling=scale-down&starting-point-node-id=33%3A2062)
 
 # Presentation
 
