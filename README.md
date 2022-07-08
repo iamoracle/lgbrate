@@ -1,7 +1,7 @@
 # LGBRATE
 
 
-LGBRATE is a fully decentralized LGBTQIA+ community and forum that runs on the CELO blockchain. We provide a platform to organize events, meet other members and donate funds to projects.
+LGBRATE is a fully decentralized LGBTQIA+ community and forum that runs on the CELO blockchain. We provide a platform to organize events, meet other members and donate funds to projects. LGBRATE will liberate LGBTQIA+ communities worldwide especially, in countries where they are persecuted. Members can connect & express their identity without fear and shame. It will also sensitize the public on gender-diversity.
 
 ## Project Roadmap
 
@@ -21,3 +21,8 @@ Our mission
 
 Our Vision
 1. TO become the largest decentralized LGBTQIA+ platform on CELO blockchain by August 2023.
+
+
+# Presentation
+
+[Pitch Deck](https://www.canva.com/design/DAFFxH8oCcc/jPTeZvJmX4rUy3OV55PCmA/view?utm_content=DAFFxH8oCcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
