@@ -23,6 +23,10 @@ Our Vision
 1. TO become the largest decentralized LGBTQIA+ platform on CELO blockchain by August 2023.
 
 
+# DEMO
+
+[Figma](https://www.figma.com/proto/zpSPXzKbaYbVkmA9R9OPa6/LGBRATE?page-id=0%3A1&node-id=33%3A2062&viewport=2686%2C-1249%2C0.7&scaling=scale-down&starting-point-node-id=33%3A2062)
+
 # Presentation
 
 [Pitch Deck](https://www.canva.com/design/DAFFxH8oCcc/jPTeZvJmX4rUy3OV55PCmA/view?utm_content=DAFFxH8oCcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
