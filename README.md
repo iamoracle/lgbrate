@@ -2,8 +2,12 @@
 
 [Figma Wireframe Demo](https://www.figma.com/proto/zpSPXzKbaYbVkmA9R9OPa6/LGBRATE?page-id=0%3A1&node-id=33%3A2062&viewport=2686%2C-1249%2C0.7&scaling=scale-down&starting-point-node-id=33%3A2062)
 
+## Landing Page - Desktop
 
 ![Landing Page](https://github.com/iamoracle/lgbrate/blob/main/LANDING%20PAGE.png "Optional title")
+
+## Landing Page - Mobile
+
 ![Mobile View](https://github.com/iamoracle/lgbrate/blob/main/Capture.JPG "Optional title")
 
 
